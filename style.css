@@ -1,0 +1,65 @@
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+header{
+  position: fixed;
+  background-color: lightgreen;
+  color: black;
+  width: 100%;
+  height:30px;
+  top: 0px;
+  text-align:center;
+  padding: 10px;
+}
+
+div {
+  text-align: center;
+  border: 1px solid black;
+}
+
+#back {
+  margin: auto;
+  margin-top: 40px;
+  width: 1000px;
+  padding: 20px;
+}
+
+.blockLine {
+  border: 1px solid black;
+  padding: 50px;
+}
+
+#m45 {
+  margin-top: 45px;
+  margin-bottom: 45px;
+}
+
+.block1 {
+  display: inline-block;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  width: 30%;
+  min-height: 250px;
+  height: 30%;
+  border: 1px solid black;
+}
+
+#mid1 {
+  margin-right: 40px;
+  margin-left: 40px;
+}
+
+.blockSq {
+  display: inline-table;
+  min-width: 273px;
+  min-height: 270px;
+  border: 1px solid black;
+}
+
+#midSq {
+  margin-right: 30px;
+  margin-left: 30px;
+}
